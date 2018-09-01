@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Grundbeispiel Fatec Carapicuiba Samstag</string>
+    <string name="welcome">Willkommen bei der Entwicklung von Android-Apps</string>
+    <string name="deitel_logo">Deitel Doppel Bug Marienkäfer</string>
+
+</resources>

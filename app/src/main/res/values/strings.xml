@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exemplo Básico Fatec Carapicuiba Sabado</string>
+    <string name="welcome">Welcome to Android App Development</string>
+    <string name="deitel_logo">Joinha duplo do inseto do Deitel</string>
+</resources>
